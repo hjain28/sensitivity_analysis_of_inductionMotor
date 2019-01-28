@@ -1,0 +1,66 @@
+Rs1=input('value of stator resistance in ohm');
+Xs1=input('value of stator leakage inductance in ohm');
+Rr1=input('value of rotor resistance in ohm');
+Xr1=input('value of rotor leakage inductance in ohm');
+Rc1=input('core loss resistance in ohm ');
+Xm1=input('magnetizing inductance in ohm' );
+P1=input(' no of poles');
+s1=input('slip of motor');
+f1=input('frequency of input voltage');
+FL1=input('frictional and windage losses');
+V1=input('applied voltage in volt ( per phase)');
+
+
+# 5.5 KW
+Rs1=0.052;
+Xs1=0.090;
+Rr1=0.054;
+Xr1=0.090;
+Rc1=23.43;
+Xm1=2.719;
+P1=4;
+s1=0.02;
+f1=50;
+FL1=0;
+V1=1;
+
+#  7.5 
+Rs1=0.05;
+Xs1=0.098;
+Rr1=0.067;
+Xr1=0.098;
+Rc1=16.80;
+Xm1=2.87;
+P1=4;
+s1=0.02;
+f1=50;
+FL1=0;
+V1=1;
+
+
+# 15
+Rs1=0.029;
+Xs1=0.15;
+Rr1=0.031;
+Xr1=0.15;
+Rc1=27.49;
+Xm1=2.72;
+P1=4;
+s1=0.02;
+f1=50;
+FL1=0;
+V1=1;
+
+#3.7
+
+Rs1=0.058;
+Xs1=0.101;
+Rr1=0.062;
+Xr1=0.101;
+Rc1=51.279;
+Xm1=2.858;
+P1=4;
+s1=0.03;
+f1=50;
+FL1=0;
+V1=1;
