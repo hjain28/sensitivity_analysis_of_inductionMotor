@@ -1,8 +1,8 @@
-# sensitivity_analysis_of_inductionMotor
+# sensitivity_analysis_of_inductionMotor (Model with GUI)
 
 ** script description  :
-    + main_code_file.m      : main selection menu script (+ motors steady state parameters)   for senstivity analysis 
-  
+        
+        + main_code_file.m      : main selection menu script (+ motors steady state parameters)   for senstivity analysis 
         + senstivity.m  : senstivity formulae
         + varibles.m   : equations of I-m motors 
         + condition_B.m     : menu script for individual selection (for one parameter  sensitivity)
@@ -16,11 +16,6 @@
         + condtion_C.m      :  menu script  ( + range and graph) for different parameters correspond to one variable
             
     + noramalvariation.m  : menu (+range &grapgh) script for normal varition of different parametrs correspond to input variable
-
-
-
-
-
 
 
 
