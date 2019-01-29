@@ -2,6 +2,7 @@
 
 ** script description  :
     + main_code_file.m      : main selection menu script (+ motors steady state parameters)   for senstivity analysis 
+  
         + senstivity.m  : senstivity formulae
         + varibles.m   : equations of I-m motors 
         + condition_B.m     : menu script for individual selection (for one parameter  sensitivity)
